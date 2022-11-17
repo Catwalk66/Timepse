@@ -1,0 +1,4 @@
+pyrogram==1.4.16
+tgcrypto
+Pillow==9.0.0
+pytz==2021.3
