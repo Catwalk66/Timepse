@@ -33,7 +33,7 @@
 
 ###Railway
 
-https://railway.app/new/template/aznjRU
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/S6rQr3?referralCode=5M1BLb)
 
     ## Credits
 
