@@ -53,9 +53,7 @@
 
 ```
 
-##Credits
 
-- [DATE_TIME Telegram userbot by TeLe TiPs] (https://github.com/teletips/CountdownTimer-TeLeTiPs)
 
 ```
 
